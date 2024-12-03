@@ -2,6 +2,7 @@
 pandas
 requests
 beautifulsoup4
+bs4
 
 # LLM
 langchain
