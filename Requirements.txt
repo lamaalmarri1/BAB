@@ -1,21 +1,14 @@
-# Python Libraries
 pandas
 requests
-beautifulsoup4
 bs4
-
-# LLM
-langchain
-sentence-transformers
-langchain-groq
-
-# VDB
-faiss-cpu
-
-# Web Framework
-streamlit
-
-# Additional Dependencies
+requests
+pandas
+beautifulsoup4
+langchain_huggingface 
+langchain 
+langchain-community 
+langchain_groq
 markdown
-getpass
-html2text
+openpyxl
+streamlit
+faiss-cpu
