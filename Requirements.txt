@@ -1,16 +1,14 @@
-# Core Python Libraries
+# Python Libraries
 pandas
 requests
 beautifulsoup4
 
-# Machine Learning and NLP
+# LLM
 langchain
 sentence-transformers
 langchain-groq
-transformers
-torch
 
-# Vector Database
+# VDB
 faiss-cpu
 
 # Web Framework
@@ -20,18 +18,3 @@ streamlit
 markdown
 getpass
 html2text
-
-# Optional: For development and debugging
-ipython
-jupyter
-
-# Data Processing
-numpy
-scikit-learn
-
-# API and Web Requests
-urllib3
-openai  # Optional, in case you want to use alternative LLM
-
-# If using GPU acceleration (optional)
-# torch-cuda  # Uncomment if using CUDA-enabled GPU
