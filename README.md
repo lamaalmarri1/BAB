@@ -31,10 +31,10 @@ The app will open in your default browser, where you can interact with the scrap
 the explanation is added on the jupter file
 
 # Challenges and Solutions
--Challenge: The contractor list spans multiple pages, so we need to handle pagination.
--Solution: The scraper constructs URLs for each page and collects contractor details from each page sequentially.
+* Challenge: The contractor list spans multiple pages, so we need to handle pagination.
+*Solution: The scraper constructs URLs for each page and collects contractor details from each page sequentially.
 
--Challenge: After scraping, how can we search through the contractor data?
+- Challenge: After scraping, how can we search through the contractor data?
 -Solution: We use a simple similarity search to match user queries to the contractor data and retrieve relevant information.
 
 -Challenge: I initially used large language models (LLMs) for the chatbot interaction, even though it wasn't strictly required for the functionality. I added LLMs to make the interaction feel more natural and dynamic.
