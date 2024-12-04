@@ -1,5 +1,4 @@
-# Quran Search Website
-This is a simple web application that aims to allow users to search for Quran verses in English. It consists of two main pages: a mock-login page and a basic search page. Please note that the search functionality is very simple and is not fully implemented yet.
+This is a simple web application that aims to allow users to search for Quran verses in English. It consists of two  pages: a mock-login page and a basic search page. Please note that the search functionality is very simple and is not fully implemented yet.
 
 # 1. Mock Login Page
 ## Description:
